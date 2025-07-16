@@ -1,10 +1,9 @@
 
 # 🎰 Python Slot Machine Game  
-## Description 
 A fun terminal-based slot machine game built with Python. The player starts with a balance, places bets, spins the reels, and wins coins based on symbol matches. 
  ## Features 
  - Randomly generated symbols using `random.choices()` 
- - Betting system with balance tracking 💰
+ - Betting system with balance tracking
  - payouts: 3 matches = 5x, 2 matches = 2x, 0 matches = loss
  - Option to play multiple rounds - Input validation to avoid betting more than available
  ## How It Works 
