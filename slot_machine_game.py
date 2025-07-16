@@ -1,8 +1,8 @@
-## the slot machine game
+#the slot machine game
 # Author: hajar1010
 # Description:A fun terminal-based slot machine game written in Python. The player starts with a balance, places bets, spins the reels, and wins coins based on symbol matches.
 import random
-#Ask the player how much money they want to start with 💰
+#Ask the player how much money they want to start with
 print("************************************************ ")
 print("🎰 Welcome to the Slot Machine Game!")
 balance=float(input("how much money they want to start with : "))
